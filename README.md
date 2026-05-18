@@ -17,7 +17,7 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 | Fabric Design | Web | https://fabric-design.github.io/styleguide/ | tokens | |
 | Nord Health | Web | https://nordhealth.design/ | tokens, a11y | Clinical/healthcare-focused tokens and components |
 | Turva (Duet) | Web | https://www.duetds.com/?theme=turva | tokens | Theme variant on Duet DS |
-| Starbucks Pattern Library | Web | https://www.starbucks.com/developer/pattern-library/guidelines/ | | |
+| ~~Starbucks Pattern Library~~ | Web | ~~https://www.starbucks.com/developer/pattern-library/guidelines/~~ | | ⚠️ Dead link (custom 404) |
 | Starbucks Creative Expression | Web | https://creative.starbucks.com/ | content | Brand + expression guidelines |
 | GitHub Primer | Web | https://primer.style/ | tokens, a11y | Mature product DS; strong docs and Figma kit |
 | Salesforce Lightning Design System | Web | https://www.lightningdesignsystem.com/ | tokens | Enterprise patterns at scale |
@@ -28,7 +28,7 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 | GOV.UK Design System | Web | https://design-system.service.gov.uk/ | tokens, a11y, content | Research-backed patterns; influential globally |
 | Workday Canvas | Web | https://design.workday.com/ | tokens | |
 | Zendesk Garden | Web | https://garden.zendesk.com/ | tokens | |
-| Evergreen (Segment) | Web | https://evergreen.segment.com/ | tokens | |
+| Evergreen (Segment) | Web | https://evergreen.segment.com/ | tokens | ⚠️ Effectively deprecated; Twilio Paste is successor |
 | Adobe Spectrum | Web | https://spectrum.adobe.com/ | tokens | Cross-app Adobe scale |
 | Helsinki Design System | Web | https://hds.hel.fi/ | tokens, a11y | City/open-source DS |
 | IBM Carbon | Web | https://carbondesignsystem.com/ | tokens, a11y | Token architecture, data-dense UI |
@@ -57,7 +57,7 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 | shadcn/ui | Web | https://ui.shadcn.com/ | tokens, a11y | Copy-paste paradigm; redefined component ownership |
 | Open Props | Web | https://open-props.style/ | tokens | Sub-atomic CSS custom properties; W3C design tokens spec-aligned |
 | Park UI | Web | https://park-ui.com/ | tokens | Ark UI + Panda CSS; multi-framework (React, Vue, Solid) |
-| Decathlon Vitamin | Web | https://www.decathlon.design/ | tokens | Sports retail; open-source brand + product system |
+| Decathlon Vitamin | Web | https://github.com/Decathlon/vitamin-web | tokens | Sports retail; open-source (docs site requires login) |
 | NASA JPL Explorer 1 | Web | https://nasa-jpl.github.io/explorer-1/ | | Government/science; JPL's open-source web system |
 | Braid (SEEK) | Web | https://seek-oss.github.io/braid-design-system/ | tokens | Themeable multi-brand system; layout-first philosophy |
 | GitLab Pajamas | Web | https://design.gitlab.com/ | tokens, content | Fully open-source; Vue + Rails examples, community-contributed |
@@ -96,11 +96,10 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 
 | Title | Author | URL | Tags | Notes |
 | --- | --- | --- | --- | --- |
-| Design System Foundations | Andrew Couldwell | https://designsystemfoundations.com/ | content | Strategy, team, and rollout |
+| Laying the Foundations | Andrew Couldwell | https://designsystemfoundations.com/ | content | Strategy, team, and rollout; planning and selling a DS |
 | Atomic Design | Brad Frost | https://shop.bradfrost.com/products/atomic-design-ebook | | Methodology that shaped modern DS thinking |
 | Design Systems (Smashing) | Alla Kholmatova | https://www.smashingmagazine.com/design-systems-book/ | content | Language, structure, and consistency |
-| The Design Systems Handbook | Various (InVision) | https://www.designbetter.co/design-systems-handbook | content | Free multi-author primer |
-| Laying the Foundations | Andrew Couldwell | https://designsystemfoundations.com/introduction/ | content | Planning and selling a DS (2019) |
+| The Design Systems Handbook | Various (InVision) | https://www.designbetter.co/design-systems-handbook | content | Free multi-author primer (InVision shut down 2024; handbook still hosted on Substack) |
 | Every Layout | Heydon Pickering & Andy Bell | https://every-layout.dev/ | a11y | Intrinsic layout patterns for resilient UI |
 | Refactoring UI | Adam Wathan & Steve Schoger | https://www.refactoringui.com/ | | Visual craft for builders |
 | Practical UI | Adam Wathan | https://www.practical-ui.com/ | | Component-level visual decisions |
