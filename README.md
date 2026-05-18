@@ -49,6 +49,13 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 | Uber Base Web | Web | https://base.uber.com/ | tokens | |
 | Audi Design System | Web | https://www.audi.com/ci/en/introduction.html | content | Brand-heavy corporate system |
 | Inclusive Components | Web | https://inclusive-components.design/ | a11y | Accessible UI pattern essays |
+| Airbnb Design | Web | https://airbnb.design/ | content | Design editorial + Cereal typeface case study; travel/hospitality |
+| Discord Branding | Web | https://discord.com/branding | content | Blurple palette, Clyde mascot rules; playful but precise |
+| Duolingo Brand Guidelines | Web | https://design.duolingo.com/ | content | Mascot, color, writing tone; playful brand personality done right |
+| Mozilla Protocol | Web | https://protocol.mozilla.org/ | tokens, content | Open-source dual-brand system (Mozilla + Firefox) |
+| Spotify Design | Web | https://spotify.design/ | content | Design principles + brand-meets-product editorial |
+| Vercel Geist | Web | https://vercel.com/geist/introduction | tokens | Minimalist dev-tool aesthetic; proprietary typeface |
+| eBay Playbook (Evo) | Web | https://playbook.ebay.com/ | tokens, a11y, content | Brand + product DS unified; proprietary typeface, AAA color system |
 | Porsche Design System | Web | https://designsystem.porsche.com/ | tokens | Open-source automotive DS; web components, cross-framework |
 | Deutsche Bahn (DB UX v3) | Web | https://design-system.deutschebahn.com/ | tokens, a11y | German rail; accessible, performant, open-source |
 | Wise Design | Web | https://wise.design/ | tokens, content | Fintech; exceptional i18n across dozens of markets |
@@ -63,7 +70,15 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 | GitLab Pajamas | Web | https://design.gitlab.com/ | tokens, content | Fully open-source; Vue + Rails examples, community-contributed |
 | Wanda (Wonderflow) | Web | https://design.wonderflow.ai/ | tokens | Analytics product DS; compact but well-structured |
 | Kaizen (Culture Amp) | Web | https://cultureamp.design/ | tokens, a11y | HR/people analytics; continuous improvement philosophy |
+| Klarna Brand Guidelines | Web | https://brand.klarna.com/ | content | "Proudly pink"; polished grid system, layout rules, retail/fintech |
+| Nike Circular Design Guide | Web | https://circulardesign.nike.com/ | content | Sustainable product design principles; unique angle from fashion |
 | monday.com Vibe | Web | https://vibe.monday.com/ | tokens | Colorful work-management DS; strong playground |
+| Alaska Airlines Auro | Web | https://auro.alaskaair.com/ | tokens, a11y | Rare public airline DS; Web Components, React/Svelte, open GitHub |
+| Skyscanner Backpack | Web | https://www.skyscanner.design/latest | tokens | Travel; open-source, multi-platform (Web, iOS, Android), shared foundations |
+| Lufthansa Brand Guidelines | Web | https://frontify.lufthansa.com/d/jKOh3AHXtyml/en | content | Iconic airline brand; Frontify-hosted, design heritage back to 1962 Ulm school |
+| Volvo Cars Design Portal | Web | https://design.volvocars.com/ | tokens, content | Automotive; grids, typography, color, iconography + separate web DS with Storybook |
+| Volkswagen GroupUI | Web | https://github.com/GroupUI | tokens | Red Dot Award-winning multi-brand DS; Stencil.js web components across all VW Group brands |
+| Android Automotive Car UI | Web | https://source.android.com/docs/automotive/hmi/car_ui | | In-vehicle HMI component library; the foundation many car manufacturers build on |
 
 ---
 
@@ -89,6 +104,8 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 | Audi React UI | Storybook | https://react.ui.audi/ | tokens | 330+ stories tied to real product use cases |
 | monday.com Vibe | Storybook | https://vibe.monday.com/v2/ | tokens | Rich playground; vibrant brand integration |
 | Kaizen (Culture Amp) | Storybook | https://storybook.js.org/showcase/culture-amp-kaizen | tokens, a11y | People/HR analytics components |
+| Skyscanner Backpack | Storybook | https://storybook.js.org/showcase/skyscanner-backpack/ | tokens | Travel; multi-platform component explorer |
+| Volvo Cars Web DS | Storybook | https://developer.volvocars.com/design-system/web/ | tokens | Automotive; pairs with design.volvocars.com brand portal |
 
 ---
 
