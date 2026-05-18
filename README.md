@@ -37,7 +37,7 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 | Material Design 3 | Web | https://m3.material.io/ | tokens | Google’s current system; expressive color |
 | Twilio Paste | Web | https://paste.twilio.design/ | tokens, a11y | Composable primitives for dev tools |
 | Elastic EUI | Web | https://eui.elastic.co/ | | Data visualization + admin UI |
-| Pinterest Gestalt | Web | https://gestalt.pinterest.com/ | tokens, a11y | Visual craft + accessibility docs |
+| Pinterest Gestalt | Web | https://gestalt.pinterest.systems/ | tokens, a11y | Visual craft + accessibility docs |
 | BBC GEL | Web | https://www.bbc.co.uk/gel/ | content | Global experience language |
 | Cisco Momentum | Web | https://momentum.design/ | tokens | |
 | REI Cedar | Web | https://rei.github.io/rei-cedar-docs/ | tokens | Outdoor retail; design tokens in the wild |
