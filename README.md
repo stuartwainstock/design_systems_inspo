@@ -49,6 +49,21 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 | Uber Base Web | Web | https://base.uber.com/ | tokens | |
 | Audi Design System | Web | https://www.audi.com/ci/en/introduction.html | content | Brand-heavy corporate system |
 | Inclusive Components | Web | https://inclusive-components.design/ | a11y | Accessible UI pattern essays |
+| Porsche Design System | Web | https://designsystem.porsche.com/ | tokens | Open-source automotive DS; web components, cross-framework |
+| Deutsche Bahn (DB UX v3) | Web | https://design-system.deutschebahn.com/ | tokens, a11y | German rail; accessible, performant, open-source |
+| Wise Design | Web | https://wise.design/ | tokens, content | Fintech; exceptional i18n across dozens of markets |
+| Orbit (Kiwi.com) | Web | https://orbit.kiwi/ | tokens, a11y | Travel; open-source, colorblind-tested palettes |
+| Mantine | Web | https://mantine.dev/ | tokens | 100+ React components; community-driven, great DX |
+| shadcn/ui | Web | https://ui.shadcn.com/ | tokens, a11y | Copy-paste paradigm; redefined component ownership |
+| Open Props | Web | https://open-props.style/ | tokens | Sub-atomic CSS custom properties; W3C design tokens spec-aligned |
+| Park UI | Web | https://park-ui.com/ | tokens | Ark UI + Panda CSS; multi-framework (React, Vue, Solid) |
+| Decathlon Vitamin | Web | https://www.decathlon.design/ | tokens | Sports retail; open-source brand + product system |
+| NASA JPL Explorer 1 | Web | https://nasa-jpl.github.io/explorer-1/ | | Government/science; JPL's open-source web system |
+| Braid (SEEK) | Web | https://seek-oss.github.io/braid-design-system/ | tokens | Themeable multi-brand system; layout-first philosophy |
+| GitLab Pajamas | Web | https://design.gitlab.com/ | tokens, content | Fully open-source; Vue + Rails examples, community-contributed |
+| Wanda (Wonderflow) | Web | https://design.wonderflow.ai/ | tokens | Analytics product DS; compact but well-structured |
+| Kaizen (Culture Amp) | Web | https://cultureamp.design/ | tokens, a11y | HR/people analytics; continuous improvement philosophy |
+| monday.com Vibe | Web | https://vibe.monday.com/ | tokens | Colorful work-management DS; strong playground |
 
 ---
 
@@ -69,6 +84,11 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 | Grafana UI | Storybook | https://developers.grafana.com/ui/latest/index.html | | Observability/dashboard UI |
 | Elastic EUI | Storybook | https://eui.elastic.co/storybook/ | | |
 | Twilio Paste | Storybook | https://paste-storybook.twilio.design/ | tokens, a11y | |
+| NASA JPL Explorer 1 | Storybook | https://nasa-jpl.github.io/explorer-1/?path=/docs/introduction--docs | | Science/gov; clean IA and component org |
+| Orbit (Kiwi.com) | Storybook | https://storybook.js.org/showcase/kiwicom-orbit/ | tokens, a11y | Travel components, accessibility-tested |
+| Audi React UI | Storybook | https://react.ui.audi/ | tokens | 330+ stories tied to real product use cases |
+| monday.com Vibe | Storybook | https://vibe.monday.com/v2/ | tokens | Rich playground; vibrant brand integration |
+| Kaizen (Culture Amp) | Storybook | https://storybook.js.org/showcase/culture-amp-kaizen | tokens, a11y | People/HR analytics components |
 
 ---
 
@@ -84,6 +104,24 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 | Every Layout | Heydon Pickering & Andy Bell | https://every-layout.dev/ | a11y | Intrinsic layout patterns for resilient UI |
 | Refactoring UI | Adam Wathan & Steve Schoger | https://www.refactoringui.com/ | | Visual craft for builders |
 | Practical UI | Adam Wathan | https://www.practical-ui.com/ | | Component-level visual decisions |
+| The Design Tokens Book | Ismail Hamila et al. | https://ismailhamila.design/work/DesignTokensBook.html | tokens | First dedicated book on token architecture, naming, theming |
+| Subatomic (course) | Brad Frost | https://bradfrost.com/blog/tag/design-tokens/ | tokens | Complete guide to design tokens from the Atomic Design author |
+
+---
+
+## Newsletters & Blogs
+
+| Name | URL | Notes |
+| --- | --- | --- |
+| Brad Frost's blog | https://bradfrost.com/blog/tag/design-systems/ | The Atomic Design author; tokens, recipes, process |
+| Design Systems Collective | https://designsystemscollective.substack.com/ | Interviews with DS leaders; strategy and tokens focus |
+| The Design System Guide | https://thedesignsystem.guide/newsletter | Weekly tools, templates, and practitioner interviews |
+| Design System University | https://designsystem.university/newsletter | Weekly curriculum-style content on scaling systems |
+| Design Systems News | https://news.design.systems/ | Aggregator; tokens, components, naming, governance |
+| designsystems.surf | https://designsystems.surf/ | Curated gallery + articles; good for discovering systems |
+| Nathan Curtis (EightShapes) | https://medium.com/eightshapes-llc | Deep-dive essays on DS architecture and team models |
+| Into Design Systems | https://www.intodesignsystems.com/ | Conference + blog; case studies from Spotify, Figma, etc. |
+| Figmalion | https://figmalion.com/topics/design-systems | Design tokens + Figma Variables coverage |
 
 ---
 
@@ -94,6 +132,7 @@ A personal bookmark list of design systems, style guides, Storybooks, and books 
 | **Web** | Public docs, guidelines, or pattern libraries |
 | **Storybook** | Live Storybook (or equivalent) I’d open to study components |
 | **Books** | Long-form references on systems, patterns, or visual craft |
+| **Newsletters & Blogs** | Ongoing reads about design systems practice |
 
 **Tags** (optional): `tokens`, `a11y`, `content` — only what genuinely applies.
 
